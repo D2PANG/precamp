@@ -107,9 +107,11 @@ html, body {
     flex-direction: row;
     justify-content: space-between;
     padding: 2px 5px;
+    margin-top: 10px;
+    margin-bottom: 11px;
 }
 
-.lotto__btn {
+.gmae__lotto__btn {
     width: 62px;
     height: 24px;
     border: 1px solid black;
