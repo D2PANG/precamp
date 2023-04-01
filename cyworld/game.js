@@ -14,3 +14,7 @@ const startWord = () => {
         document.getElementById("myword").value = ""
     }
 }
+
+const startlotto = () => {
+    
+}
